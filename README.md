@@ -21,5 +21,4 @@ Now that we have fitted the model using training data, we can use the fitted mod
 
 ## 5. Evaluate performance
 A good performance measure to use here is the RMSE (Root Mean Squared Error). Additionally, we will also plot the actual prices vs. the predicted prices to get a sense of how close they are.
-based off the result, the model predictions are 
-# accurate
+based off the result, the model predictions are **accurate**
